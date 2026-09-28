@@ -1,4 +1,4 @@
 {
-    "payload":  "{\"v\":1,\"seq\":2,\"updated\":\"2026-09-28T07:00:34Z\",\"licenses\":{\"e537fea17f043391e125df5d23b23a840a1dc719415be8e449af7d821ccf30a8\":{\"s\":\"ACTIVE\",\"e\":\"LIFETIME\"}}}",
-    "sig":  "psLEGuckGmGvsnnugZSpAG/sC/8Btdnt3mmPDZj2HTJ86CFdEVCHWekDQsKxMD02Bw+Im7BXQuFMyFedPQPb3S1TIFyMEqaHiGdRH6K5bWAJAN8pxHPd21JWhGqaXLrV3r0Hu3xD9+GGyUqLWHR/wSJCkBuJZj59mTjBh4oh6e1zaH3OhaPmeq7gb/Kj9FXnxXjHiB2mu+MMqHtLKqnEImzM/RazSl9ceJrbPAASQW1WKgAqim7ln/EpVPF90AW7IdKc9zaGG6ALAyfIYzRHyHjiy0XMdSkgvr8xlL0HKnPr+S4uI8XBFlwv+dbaNFGZRT8/5tdUKmZ5F0LTbqHN3A=="
+    "payload":  "{\"v\":1,\"seq\":3,\"updated\":\"2026-09-28T07:03:29Z\",\"licenses\":{}}",
+    "sig":  "lTMW6NwYdkwHnIyzRwdnXb41s3A0kP0wTnFyc/0MJbUWPJcRh1TqZpzlp44tWJ1jjm44F+BozqgPpofkId/I5Ccm/gkxVuJ+LeibHuBbaAPZowKa1nD5ObgCO1qYUrlBNA4Jpisfr26DFtC2YPSZP9QBC+jO1zMtf1j8Ig6fTP24PY3q3Yb/RO2if1pnQCjwfBFtgMsKngu7ndsVxB4kt8JPb1CHXnqZRi5KwnJz2Q42xTIXmJZECIa0OeZ+IsX7z7aHQAYDSr+1fFbRQN+n6xuqhIMk6gGzRaTEqqHgciHum8vXm9Fxs1lryzQ6RHj5kjoMeES4syj5HRKz1U3p5Q=="
 }
