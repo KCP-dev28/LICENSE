@@ -1,4 +1,4 @@
 {
-    "payload":  "{\"v\":1,\"seq\":6,\"updated\":\"2026-09-28T07:11:40Z\",\"licenses\":{\"00dc369ed4fba24b9b3d975f21923890460d8f5a4217eaf5afe57d1ec6270970\":{\"s\":\"ACTIVE\",\"e\":\"LIFETIME\"}}}",
-    "sig":  "Y/0b2aLhutsHFF59b4+tNnJvmnA4SEX4ZTX0XiBnNULld5yHDBS86s0+G30UVjY8Os4pv2zik/gtR3Nw9wcoC4IYLcTgVSj8mXS41Q0ooKw2KWT4SVZIXzfFHtH631jub/5x6V6d6u7d0HFy36RU9gWWCnFjn6PGBQr2Mn3T00AAkRYfEVQy9I5JNg4M7lgc72lrVKV3VWDOucuUQOg5hNnRqXSj8S7W5reo7BxLNQRy/X0JFGQdV7Lxm0LJE7qdErRvklH66HthWeZJ6SwjeIy/xGotWprVG/TS4Vwy0kE6Vt8EXTU6FkResSCNIXfYRhAcb7wl1QL6fpPIg67zYg=="
+    "payload":  "{\"v\":1,\"seq\":7,\"updated\":\"2026-09-28T07:16:09Z\",\"licenses\":{}}",
+    "sig":  "Q2Qca4rBl9B7mXkeHzx7FoGzygvpfcOyAUo8DWB9IsW99hUXbdwbulBU267CmsjbWKTJYFFe+bmjQTWcMozDW8s5fVv0O0PpWNO5bo3CZgH1QwBlM+N+xYIX8oMbkINp+QOB7lQL7h+fIpzX0LIov18DTc9ab6lYEOaacrSpQtBJGG1kTudjbyz4MBnoK5qMvBiQ+0uoxNjuexR8dRA4MsDd3cxg8VyWhZsvh9xqU8W2KiKQMxzcnt4tpSDTAYpyJvIC30aU5wcMMdQ/JBIAzchiuow1XxLkL49vUgOl/llKoB4pDtNJRpxLP1nyPBmD110mGMY3PCsSfhvpNGBN7A=="
 }
